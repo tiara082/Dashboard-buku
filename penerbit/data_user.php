@@ -32,7 +32,7 @@ $columns = array(
                             class="fas fa-eye"></i></a>
                     <a href="edit_penerbit.php?id='.$d.'" class="btn btn-sm btn-info rounded-pill"><i
                             class="fas fa-edit"></i></a>
-                    <a href="delete_penerbit.php?id='.$d.'" class="btn btn-sm btn-info rounded-pill"><i
+                    <a href="delete_penerbit.php?id='.$d.'" class="btn btn-sm btn-danger rounded-pill"><i
                             class="fas fa-trash"></i></a>
 
                 </td>
