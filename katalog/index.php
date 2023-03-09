@@ -101,7 +101,7 @@ if (!empty($_SESSION['username']) ) {
                             <?php  echo $row['nama'];  ?>                   
                          </a>
                     <div class="dropdown-menu dropdown-menu-right">
-                        <a class="dropdown-item" href="#"><i class="fas fa-user fa-fw"></i> Profile</a>
+                        <a class="dropdown-item" href="http://localhost/Dashboard-buku/anggota/see_user.php"><i class="fas fa-user fa-fw"></i> Profile</a>
                         <a class="dropdown-item" href="http://localhost/Dashboard-buku/logout.php"><i class="fas fa-sign-out-alt fa-fw"></i> Logout</a>
                     </div>
                 </li>
